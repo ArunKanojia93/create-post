@@ -1,0 +1,32 @@
+@import "~antd/dist/antd.css";
+
+header {
+  background: aliceblue !important;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+section {
+  background: white !important;
+}
+
+input {
+  margin-top: 20px !important;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+.main-container {
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.3);
+  height: 100%;
+}
+
+button {
+  display: flex;
+  margin-top: 20px;
+  width: 100%;
+}
